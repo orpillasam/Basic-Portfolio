@@ -8,6 +8,10 @@ Due: 10/7/17
 
 After painstakenly doing the easy assignment, i tackled this assignment as well. The concepts of HTML and CSS started to make sense to me. Despite this taking all week to finish, I understood what I was trying to accomplish, even if I did thousands of trial and errors.  
 
+
+******************************************************************************
+
+
 Recommended Assignment - That Portfolio Though
 Overview
 
